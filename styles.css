@@ -114,3 +114,45 @@ header {
     font-size: 24px;
     color: #E2E2B6;
 }
+
+#projects {
+    margin-top: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    gap: 3%;
+    justify-content: center;
+}
+
+#dynasty {
+    background-image: url(./images/Dynasty\ Website\ Image.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 350px;
+    height: 350px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+}
+
+#etch-a-sketch {
+    background-image: url(./images/Etch-A-Sketch-Image.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 350px;
+    height: 350px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+}
+
+#rock-paper-scissors {
+    background-image: url(./images/Etch-A-Sketch-Image.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 350px;
+    height: 350px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+}
